@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="InTheOffice.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Intro" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">You are at your desk. It's a little weird that you have five highlighters that you've never used. You also see a letter opener, but you never get any letters. Your life is a Kafka moment, {name}.</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">An obese troll is wandering by your cubicle. She has something in her hand. Is it mail? Can you actually use your letter opener?</Value>
+    </Setting>
+    <Setting Name="Setting1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"{name}, here is your invitation to the company pot luck! Bring something with butter!" she says.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
